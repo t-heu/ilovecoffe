@@ -36,7 +36,7 @@ export default function Home() {
                   alt="Image"
                   className="aspect-video overflow-hidden rounded-xl object-cover object-center"
                   height="225"
-                  src="/a.jpg"
+                  src="/c.jpg"
                   width="400"
                 />
               </div>
