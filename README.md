@@ -15,4 +15,4 @@ pnpm dev
 - Shadcn
 
 ## Preview
-![alt text](.docs/image.png)
+![alt text](.docs/preview.png)
